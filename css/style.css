@@ -475,3 +475,8 @@ display: flex;
 flex-flow: row wrap;
 justify-content: center;
 }
+@media only screen and (max-width: 600px) {
+.img-responsive {
+height: 100%;
+}
+}
