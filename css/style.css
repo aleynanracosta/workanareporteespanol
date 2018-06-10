@@ -172,7 +172,7 @@
 	display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    padding-bottom: 8.95%;
+    padding-bottom: 5.84%;
 }
 .horas {
 	background-color: #141d2d;
@@ -445,7 +445,7 @@
 	display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    padding-bottom: 3%
+    padding-bottom: 3.73%;
 }
 .tiempo {
 	background-color: #253556;
