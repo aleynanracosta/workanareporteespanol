@@ -498,6 +498,7 @@ footer {
 	flex-flow: row wrap;
 	justify-content: center;
 	margin-top: 30px;
+	text-align: center;
 }
 
 a:hover {
